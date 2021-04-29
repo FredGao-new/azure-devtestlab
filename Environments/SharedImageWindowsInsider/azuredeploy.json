@@ -145,7 +145,7 @@
                         }
                     },
                     "imageReference": {
-                        "id": "/subscriptions/ac77c8bc-f7c9-4592-9682-c9b0f643f0c9/resourceGroups/fred0416RG/providers/Microsoft.Compute/galleries/fred0416sig/images/vyicgao001/versions/1.0.0"
+                        "id": "/subscriptions/ac77c8bc-f7c9-4592-9682-c9b0f643f0c9/resourceGroups/fred0429RG/providers/Microsoft.Compute/galleries/fred0429sig/images/test/versions/1.0.0"
                     }
                 },
                 "networkProfile": {
